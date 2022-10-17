@@ -1,12 +1,12 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#Результат)    
-[6. Выводы](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#Выводы) 
+[1. Описание проекта](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#1.-Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#2.-Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#3.-Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#4.-Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#5.-Результат)    
+[6. Выводы](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#6.-Выводы) 
 
 ### 1. Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
@@ -27,6 +27,7 @@
 **Что практикуем**     
 Учимся писать хороший код на python
 
+:arrow_up:[к оглавлению](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#Оглавление)
 
 ### 3. Краткая информация о данных
 ....
