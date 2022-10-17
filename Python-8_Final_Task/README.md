@@ -3,18 +3,18 @@
 ## Оглавление  
 [1. Описание проекта](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](hhttps://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#Краткая-информация-о-данных)  
+[3. Краткая информация о данных](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#Результат)    
 [6. Выводы](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#Выводы) 
 
-### Описание проекта    
+### 1. Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#Оглавление)
 
 
-### Какой кейс решаем?    
+### 2. Какой кейс решаем?    
 Нужно написать программу, которая угадывает число за минимальное число попыток
 
 **Условия соревнования:**  
@@ -28,25 +28,25 @@
 Учимся писать хороший код на python
 
 
-### Краткая информация о данных
+### 3. Краткая информация о данных
 ....
   
 :arrow_up:[к оглавлению](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#Оглавление)
 
 
-### Этапы работы над проектом  
+### 4. Этапы работы над проектом  
 ....
 
 :arrow_up:[к оглавлению](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#Оглавление)
 
 
-### Результаты:  
+### 5. Результат  
 ....
 
 :arrow_up:[к оглавлению](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#Оглавление)
 
 
-### Выводы:  
+### 6. Выводы
 ....
 
 :arrow_up:[к оглавлению](https://github.com/npashnina/MyDataScience/blob/main/Python-8_Final_Task/README.md#Оглавление)
