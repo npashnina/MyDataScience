@@ -1,12 +1,12 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/npashnina/MyDataScience/tree/e55adf95afbe91c861f39cc993d7fbd2294d2971/Python-8_Final_Task.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/npashnina/MyDataScience/tree/e55adf95afbe91c861f39cc993d7fbd2294d2971/Python-8_Final_Task.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/npashnina/MyDataScience/tree/e55adf95afbe91c861f39cc993d7fbd2294d2971/Python-8_Final_Task.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/npashnina/MyDataScience/tree/e55adf95afbe91c861f39cc993d7fbd2294d2971/Python-8_Final_Task.README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/npashnina/MyDataScience/tree/e55adf95afbe91c861f39cc993d7fbd2294d2971/Python-8_Final_Task.README.md#Результат)    
-[6. Выводы](https://github.com/npashnina/MyDataScience/tree/e55adf95afbe91c861f39cc993d7fbd2294d2971/Python-8_Final_Task.README.md#Выводы) 
+[1. Описание проекта](https://github.com/npashnina/MyDataScience/blob/e55adf95afbe91c861f39cc993d7fbd2294d2971/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/npashnina/MyDataScience/blob/e55adf95afbe91c861f39cc993d7fbd2294d2971/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/npashnina/MyDataScience/blob/e55adf95afbe91c861f39cc993d7fbd2294d2971/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/npashnina/MyDataScience/blob/e55adf95afbe91c861f39cc993d7fbd2294d2971/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/npashnina/MyDataScience/blob/e55adf95afbe91c861f39cc993d7fbd2294d2971/README.md#Результат)    
+[6. Выводы](https://github.com/npashnina/MyDataScience/blob/e55adf95afbe91c861f39cc993d7fbd2294d2971/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
